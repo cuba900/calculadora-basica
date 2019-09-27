@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    position: relative;
+    /* background-color: rgb(241, 140, 8); */
+    background-image: url("matrix-background.jpg");
+}
+form{
+    padding-left:0;
+    
+
+}
+#caixa {
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    font-size: 30px;
+    background-color: #333;
+    color: yellowgreen;
+}
+#ope{
+    width: 49px;
+    height: 49px;
+    
+    
+}
+h1 {
+    color:yellow;
+    font-family: 'Pacifico', cursive;
+}
+h2 {
+    color: transparent;
+}
+#linha{
+    color: rgba(255, 255, 0, 0.979);
+}
+#contact{
+    color: yellow;
+    font-family: 'Pacifico', cursive;
+    font-weight: 560;
+    
+}
+/* responsividade */
+@media screen and (max-width: 830px) {
+    
+}
